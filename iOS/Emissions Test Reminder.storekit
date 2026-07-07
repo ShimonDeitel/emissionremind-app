@@ -1,0 +1,27 @@
+{
+  "identifier" : "Emissions Test Reminder",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "com.shimondeitel.emissionremind.pro",
+      "localizations" : [
+        {
+          "description" : "Unlock Multi-vehicle history with pass/fail result photos",
+          "displayName" : "Emissions Test Reminder Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.emissionremind.pro",
+      "referenceName" : "Emissions Test Reminder Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
